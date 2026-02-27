@@ -1,2 +1,2 @@
-# YokKreations-CC-
+# YoKKreations-CC-
 Music UGC generator
